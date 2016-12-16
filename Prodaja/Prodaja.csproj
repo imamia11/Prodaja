@@ -1,0 +1,156 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
+    <ProductVersion>8.0.30703</ProductVersion>
+    <SchemaVersion>2.0</SchemaVersion>
+    <ProjectGuid>{3347B0F8-E1BA-411E-B702-8C288F0F4301}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Prodaja</RootNamespace>
+    <AssemblyName>Prodaja</AssemblyName>
+    <TargetFrameworkVersion>v4.0</TargetFrameworkVersion>
+    <TargetFrameworkProfile>Client</TargetFrameworkProfile>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|x86' ">
+    <PlatformTarget>x86</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Windows.Forms.DataVisualization" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="DAL\AccessData.cs" />
+    <Compile Include="frmGlavna.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmGlavna.Designer.cs">
+      <DependentUpon>frmGlavna.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIsporuceno.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIsporuceno.Designer.cs">
+      <DependentUpon>frmIsporuceno.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmIsporuka.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmIsporuka.Designer.cs">
+      <DependentUpon>frmIsporuka.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmKupac.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmKupac.Designer.cs">
+      <DependentUpon>frmKupac.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmArtikal.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmArtikal.Designer.cs">
+      <DependentUpon>frmArtikal.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopisArtikala.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopisArtikala.Designer.cs">
+      <DependentUpon>frmPopisArtikala.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmPopisKupaca.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmPopisKupaca.Designer.cs">
+      <DependentUpon>frmPopisKupaca.cs</DependentUpon>
+    </Compile>
+    <Compile Include="frmStatistika.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="frmStatistika.Designer.cs">
+      <DependentUpon>frmStatistika.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="frmGlavna.resx">
+      <DependentUpon>frmGlavna.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIsporuceno.resx">
+      <DependentUpon>frmIsporuceno.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmIsporuka.resx">
+      <DependentUpon>frmIsporuka.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmKupac.resx">
+      <DependentUpon>frmKupac.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmArtikal.resx">
+      <DependentUpon>frmArtikal.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopisArtikala.resx">
+      <DependentUpon>frmPopisArtikala.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmPopisKupaca.resx">
+      <DependentUpon>frmPopisKupaca.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="frmStatistika.resx">
+      <DependentUpon>frmStatistika.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\colorful_640.jpg" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>

@@ -1,0 +1,13 @@
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\bin\Release\Prodaja.exe
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\bin\Release\Prodaja.pdb
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.frmGlavna.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.frmIsporuceno.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.frmIsporuka.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.frmKupac.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.frmArtikal.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.Properties.Resources.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\GenerateResource.read.1.tlog
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\GenerateResource.write.1.tlog
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.exe
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Release\Prodaja.pdb

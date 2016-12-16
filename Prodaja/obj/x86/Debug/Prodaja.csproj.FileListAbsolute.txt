@@ -1,0 +1,41 @@
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\bin\Debug\Prodaja.exe
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\bin\Debug\Prodaja.pdb
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\Prodaja.frmArtikal.resources
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\Prodaja.Properties.Resources.resources
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\Prodaja.exe
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\Prodaja.pdb
+C:\Users\Matea\AppData\Local\Temporary Projects\Prodaja\obj\x86\Debug\Prodaja.DAL.frmKupac.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.exe
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.pdb
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\bin\Debug\Prodaja.exe
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmGlavna.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmKupac.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmArtikal.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.Properties.Resources.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\GenerateResource.read.1.tlog
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\GenerateResource.write.1.tlog
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\bin\Debug\Prodaja.pdb
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmIsporuka.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmIsporuceno.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmPopisArtikala.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmPopisKupaca.resources
+C:\Users\Matea\documents\visual studio 2010\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmStatistika.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.exe
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.pdb
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\bin\Debug\Prodaja.exe
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\bin\Debug\Prodaja.pdb
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.csprojResolveAssemblyReference.cache
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmGlavna.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmIsporuceno.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmIsporuka.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmKupac.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmArtikal.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmPopisArtikala.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmPopisKupaca.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.frmStatistika.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.Properties.Resources.resources
+C:\Users\ivana\Documents\Visual Studio 2012\Projects\Prodaja\Prodaja\obj\x86\Debug\Prodaja.csproj.GenerateResource.Cache
